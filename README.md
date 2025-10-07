@@ -3,7 +3,8 @@
 This project analyzes the relationship between Los Angeles Lakers' game outcomes and Domestic Violence in LA. The main results are presented in an interactive HTML report created with R Markdown.
 
 ## Live Demo
-[View the interactive HTML report](https://github.com/rconner1/lakers_crime_analysis/blob/main/Lakers-and-Crime.html)
+[View the interactive HTML report](https://rconner1.github.io/lakers_crime_analysis/)
+
 
 
 ## Files
